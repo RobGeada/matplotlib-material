@@ -1,0 +1,34 @@
+# Material matplitlib style (for dark jupyter notebooks)
+
+lines.color: white
+lines.linewidth: 2
+patch.edgecolor: white
+
+font.size: 14
+text.color: 263238
+
+axes.prop_cycle: cycler('color', ['39adb5', 'FF5370', 'FFCB6B', '83D124', 'B2CCD6', '7c4dff'])
+axes.facecolor: white
+axes.edgecolor: white
+axes.labelcolor: white
+
+xtick.color: white
+ytick.color: white
+
+grid.color: white
+
+figure.facecolor:  263238
+figure.edgecolor: 263238
+figure.figsize: 12.8,8
+figure.dpi: 160
+savefig.facecolor:  263238
+savefig.edgecolor: 263238
+
+
+# color cycle
+# #39adb5
+# #FF5370
+# #FFCB6B
+# #83D124
+# #B2CCD6
+# #7c4dff

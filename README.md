@@ -6,6 +6,11 @@ Material stylesheet for Python's matplotlib
 
 ### Installation
 **Linux**
-`mkdir ~.config/matplotlib/stylelib`
+* ` cd  ~/.config/matplotlib/`
+* `mkdir stylelib`
+* `curl -o stylelib/material.mplstyle ttps://raw.githubusercontent.com/RobGeada/matplotlib-material/master/material.mplstyle`
 
-`curl -o ~.config/matplotlib/stylelib/material.mplstyle ttps://raw.githubusercontent.com/RobGeada/matplotlib-material/master/material.mplstyle`
+**Mac**
+* ` cd  ~/.matplotlib/`
+* `mkdir stylelib`
+* `curl -o stylelib/material.mplstyle ttps://raw.githubusercontent.com/RobGeada/matplotlib-material/master/material.mplstyle`

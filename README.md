@@ -8,9 +8,9 @@ Material stylesheet for Python's matplotlib
 **Linux**
 * ` cd  ~/.config/matplotlib/`
 * `mkdir stylelib`
-* `curl -o stylelib/material.mplstyle ttps://raw.githubusercontent.com/RobGeada/matplotlib-material/master/material.mplstyle`
+* `curl -o stylelib/material.mplstyle https://raw.githubusercontent.com/RobGeada/matplotlib-material/master/material.mplstyle`
 
 **Mac**
 * ` cd  ~/.matplotlib/`
 * `mkdir stylelib`
-* `curl -o stylelib/material.mplstyle ttps://raw.githubusercontent.com/RobGeada/matplotlib-material/master/material.mplstyle`
+* `curl -o stylelib/material.mplstyle https://raw.githubusercontent.com/RobGeada/matplotlib-material/master/material.mplstyle`

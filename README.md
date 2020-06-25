@@ -14,3 +14,5 @@ Material stylesheet for Python's matplotlib
 * ` cd  ~/.matplotlib/`
 * `mkdir stylelib`
 * `curl -o stylelib/material.mplstyle https://raw.githubusercontent.com/RobGeada/matplotlib-material/master/material.mplstyle`
+
+You might have to run `plt.style.reload_library()` to get matplotlib to recognize the new style.
